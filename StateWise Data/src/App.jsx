@@ -64,7 +64,7 @@ function App(){
                        
                             </div>
 
-                            <div className='donot'>
+                            <div className='donot'> 
                                    
                                  <LineChart/>
                        
